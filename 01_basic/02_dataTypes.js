@@ -27,3 +27,9 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+console.log("Anmol");
+console.log(6+8);
+let number = 23.4
+
+console.log(typeof number);
